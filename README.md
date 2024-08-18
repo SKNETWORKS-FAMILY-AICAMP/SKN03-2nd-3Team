@@ -50,7 +50,7 @@
 # 4. 📈 가설 및 분석결과 해석 📈
 ### 가설1 : 한국 시니어들이 연간 증가할 것이다.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fc7fa10e-62b7-424c-968b-be84f6e939c5" alt="이미지 설명" width="800" />
+  <img src="https://github.com/user-attachments/assets/fc7fa10e-62b7-424c-968b-be84f6e939c5" alt="이미지 설명" width="600" />
 </p>
 - 2024년부터 한국 전체 인원수 잠정치는 감소하는 반면, 50-60대 시니어의 인구수는 2017년부터 꾸준히 급상승하였고, 2024년부터 2027년 잠정치는 완만하게 증가한다. <br>
 (하지만 2028년부터 시니어인구수 잠정치가 완만하게 감소한다.)
