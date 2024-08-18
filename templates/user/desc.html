@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DESC</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/desc.css' %}">
+</head>
+<body>
+    <div class="main-container">
+        <header id="home-link">
+            <a href="/">
+                <h1>ASWM</h1>
+            </a>
+        </header>
+        <div class="content-container" data-images="{% static 'images/activesenior.jpg' %}" 
+        data-h3="엑티브 시니어란?" 
+        data-p="은퇴 이후 충분한 시간과 경제력을 가지고 소비/여가 생활을 활발하게 즐기면서 적극적이고 능동적으로 삶을 살아가는 5060세대">
+            <img src="{% static 'images/desc_icon.png' %}" class="content-image" alt="desc_icon">
+            <div class="text-container">
+                <h1 class="title">엑티브 시니어?</h1>
+            </div>
+        </div>
+        
+        <div class="content-container" data-images="{% static 'images/hypothesis.png' %}, {% static 'images/hypothesis2.png' %}, 
+        {% static 'images/hypothesis3.png' %}" 
+        data-h3="가설 1 : 한국 시니어들이 연간 증가할 것이다. 
+        ,가설 2 : 액티브 시니어들이 소비지출은 그외의 연령대보다 소비지출액이 높을 것이다.  
+        ,가설 3 : 액티브 시니어들의 문화지소비 비중이 그 외의 연령대에 비해 높을 것이다."     
+        data-p="설명1 : 2024년부터 한국 전체 인원수 잠정치는 감소하는 반면 50-60대 시니어의 인구수는 2017년부터 꾸준히 급상승하였고 2024년부터 2027년 잠정치는 완만하게 증가한다. 하지만 2028년부터 시니어인구수 잠정치가 완만하게 감소한다.
+        ,설명2 : 50대 가구는 소비지출액이 높게 나타났으나 60세 이상 가구는 소비지출액이 급격히 떨어지는 추세를 보인다. 
+        ,설명3 : 전체 소비지출 대비 문화소비 60대이상은 낮았고 50대는 높았다.">
+            <img src="{% static 'images/desc_icon_2.png' %}" class="content-image" alt="desc_icon">
+            <div class="text-container">
+                <h1 class="title">가설</h1>
+            </div>
+        </div>
+        
+        <div class="content-container" data-images="{% static 'images/desc_icon_3.png' %}" 
+            data-h3="결론 : 현재 우리나라의 50대는 액티브 시니어이고 60대는 액티브시니어로 보기 어렵다." 
+            data-p="설명 : 우리나라 시니어층은 50대와 60대를 기준으로 극명하게 갈리며 그 중 50대는 소비지출액이 높고 활동적 소비를 하여 액티브시니어로 볼 수 있다. 하지만 60대이상의 인구는 소비 지출액이 적도 그 중  활동적 소비 비중 또한 낮다. 따라서 비액티브 시니어라고 보기 어렵다. ">
+            <img src="{% static 'images/desc_icon_3.png' %}" class="content-image" alt="desc_icon">
+            <div class="text-container">
+                <h1 class="title">결론</h1>
+            </div>
+        </div>
+        
+    </div>
+
+    <!-- 팝업과 배경 -->
+    <div id="popup-overlay" class="popup-overlay">
+        <div id="popup" class="popup">
+            <span id="popup-close" class="popup-close">&times;</span>
+            <button id="popup-prev" class="popup-nav popup-prev">❮</button>
+            <button id="popup-next" class="popup-nav popup-next">❯</button>
+            <div class="popup-content">
+                <h1 id="popup-title" class="popup-title"></h1>
+                <img id="popup-image" class="popup-image" src="" alt="popup image">
+                <h3 id="popup-description-h3" class="popup-description-h3"></h3>
+                <p id="popup-description" class="popup-description"></p>
+            </div>
+        </div>
+    </div>
+
+    <script src="{% static 'js/desc.js' %}"></script>
+</body>
+</html>
