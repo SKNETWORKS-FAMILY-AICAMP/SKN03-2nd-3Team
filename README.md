@@ -40,7 +40,8 @@
 
 
 ## 3-2. 아키텍쳐 다이어그램
-![image](https://github.com/user-attachments/assets/ade04a0b-0357-4105-91c4-5443dfeb767a)
+![image](https://github.com/user-attachments/assets/a269d5d1-49d1-4f78-98b2-cb09884ce2d0)
+
 
 
 
