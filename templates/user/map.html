@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Map Page</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/map.css' %}">
+    <link rel="stylesheet" href="{% static 'css/loading.css' %}">
+</head>
+<body>
+    <!-- 로딩 팝업 -->
+    <div id="loading-overlay" class="loading-overlay">
+        <div class="loading-popup">
+            <video src="{% static 'images/loading.mp4' %}" autoplay muted loop></video>
+        </div>
+    </div>
+
+    <div class="container-2">
+        <header id = "home-link">
+            <a href="/">
+                <h1>ASWM</h1>
+            </a>
+        </header>
+        <div class="container">
+            <div class="circle" id = "park-link">
+                <img src="{% static 'images/park_icon.png' %}" alt="공원">
+                <p>공원</p>
+            </div>
+            <div class="circle" id = "study-link">
+                <img src="{% static 'images/study_icon.png' %}" alt="교육">
+                <p>교육</p>
+            </div>
+            <div class="circle" id = "culture-link">
+                <img src="{% static 'images/culture_icon.png' %}" alt="문화 시설">
+                <p>문화 시설</p>
+            </div>
+        </div>
+        <main>
+            <img src="{% static 'images/map.jpg' %}" alt="지도 이미지">
+        </main>
+
+        <div class="footer">
+            <p>망곰하는 코딩이들</p>
+        </div>
+    </div>
+    {% load static %}
+    <script src="{% static 'js/navi-2.js' %}"></script>
+</body>
+</html>

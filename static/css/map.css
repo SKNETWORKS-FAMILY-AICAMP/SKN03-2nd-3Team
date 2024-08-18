@@ -1,0 +1,82 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, sans-serif;
+    background: url('/static/images/background.png') no-repeat center center fixed;
+    background-size: cover;
+    position: relative;
+    z-index: -1;
+}
+
+.container-2 {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+}
+
+header {
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    margin: 20px 0;
+}
+
+header h1 {
+    font-size: 3em;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 47%;
+    position: relative;
+    z-index: 1;
+    padding-top: 10px;
+    gap: 7%; /* 간격을 줄임 */
+}
+
+.circle {
+    text-align: center;
+    cursor: pointer;
+}
+
+.circle img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    opacity: 0.9;
+}
+
+.circle p {
+    margin-top: 10px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+    height: fit-content;
+}
+
+main img {
+    border: 1px solid #000;
+    max-width: 50%;
+    height: auto; /* 비율 유지 */
+}
+
+.footer p {
+    text-align: right;
+    position: relative;
+    width: 100%;
+    font-size: 24px;
+    color: gray;
+    margin: auto;
+}

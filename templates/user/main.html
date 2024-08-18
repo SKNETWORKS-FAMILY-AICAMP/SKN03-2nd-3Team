@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ASWM</title>
+    {% load static %} 
+    <link rel="stylesheet" href="{% static 'css/main.css' %}">
+    <link rel="stylesheet" href="{% static 'css/loading.css' %}">
+</head>
+<body>
+    <!-- 로딩 팝업 -->
+    <div id="loading-overlay" class="loading-overlay">
+        <div class="loading-popup">
+            <video src="{% static 'images/loading.mp4' %}" autoplay muted loop></video>
+        </div>
+    </div>
+    
+    <div class="container">
+        <div class="circle" id="desc-link">
+            <img src="{% static 'images/description_icon.png' %}" alt="지도">
+            <p>K-시니어 근황</p>
+        </div>
+        <div class="circle" id="map-link">
+            <img src="{% static 'images/map_icon.png' %}" alt="지도">
+            <p>지도</p>
+        </div>
+
+        <div class="circle" id="aboutus-link">
+            <img src="{% static 'images/aboutus.png' %}" alt="지도">
+            <p>망곰하는 코딩이들</p>
+        </div>
+
+        <div class="circle" id="test-link">
+            <img src="{% static 'images/aboutus.png' %}" alt="지도">
+            <p>누르면 귀여운게 나와요</p>
+        </div>
+    </div>
+    
+
+    
+    <div class="center-content">
+        <h1>ASWM</h1>
+    </div>
+
+    <div class="under-content">
+        <p>Active Senior with Manggom</p>
+    </div>
+
+    <div class="footer">
+        <p>망곰하는 코딩이들</p>
+    </div>
+
+    {% load static %}
+    <script src="{% static 'js/main.js' %}"></script>
+    <script src="{% static 'js/navi.js' %}"></script>
+</body>
+</html>

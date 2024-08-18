@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/aboutus.css' %}">
+</head>
+<body>
+    <header id = "home-link">
+        <a href="/">
+            <h1>ASWM</h1>
+        </a>
+    </header>
+
+    <div class="container">
+        <div class="circle">
+            <img src="{% static 'images/1.png' %}" alt="yeongyu">
+            <p>최연규</p>
+        </div>
+
+        <div class="circle">
+            <img src="{% static 'images/2.png' %}" alt="songeun">
+            <p>김성은</p>
+        </div>
+
+        <div class="circle">
+            <img src="{% static 'images/3.png' %}" alt="jongsik">
+            <p>김종식</p>
+        </div>
+
+        <div class="circle">
+            <img src="{% static 'images/4.png' %}" alt="joowon">
+            <p>이주원</p>
+        </div>
+
+        <div class="circle">
+            <img src="{% static 'images/5.png' %}" alt="jiwon">
+            <p>허지원</p>
+        </div>
+    </div>
+</body>
+</html>
