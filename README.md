@@ -58,7 +58,7 @@
 
 ### 가설2 : 액티브 시니어들의 연간 소비지출은 그외의 연령대보다 소비지출액이 높을 것이다. 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6b92746c-1dbd-4fbb-b7a2-f62147ddee89" alt="이미지 설명" width="800" />
+  <img src="https://github.com/user-attachments/assets/6b92746c-1dbd-4fbb-b7a2-f62147ddee89" alt="이미지 설명" width="600" />
 </p>
 - 50대 가구는 소비지출액이 높게 나타났으나 60세 이상 가구는 소비지출액이 다른 연령층에 비해 낮다. <br>
 - 50대와 60대 이상을 함께 볼 수 없다고 판단!
@@ -70,7 +70,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fc9cb3e5-2560-416c-9373-1546279e8281" alt="이미지 설명" width="800" />
+  <img src="https://github.com/user-attachments/assets/fc9cb3e5-2560-416c-9373-1546279e8281" alt="이미지 설명" width="600" />
 </p>
 - 전체 소비지출 대비 문화소비가 60대 이상은 낮았고, 50대는 높았다.
 <br><br>
