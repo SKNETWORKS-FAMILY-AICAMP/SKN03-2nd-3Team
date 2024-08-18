@@ -7,5 +7,27 @@
 |<img src="https://github.com/user-attachments/assets/d28f0fe3-1804-4c2a-b72b-fdd950d749bc"  width="150" height="150"/> |<img src="https://github.com/user-attachments/assets/fb403361-d3b3-4023-9813-183ad7b6b2f7"  width="150" height="150"/> |<img src="https://github.com/user-attachments/assets/d507e286-9575-4b1f-be18-94688a149080"  width="150" height="150"/>  | <img src="https://github.com/user-attachments/assets/5b3f38cc-696e-4d09-8ca9-f93d412a7a17"  width="150" height="150"/> |<img src="https://github.com/user-attachments/assets/d8f438e8-eed8-4763-bdf8-a744b5071d49"  width="150" height="150"/>  |
 
 # 📌 2. 프로젝트 소개 📌
+### 프로젝트 명
+한국 액티브 시니어들을 위한 망공이 지도
+
+### 프로젝트 소개
+
+#### 액티브 시니어란?
+- 은퇴 이후에도 제2의 삶을 찾아 경제활동에 다시 뛰어드는 50~60대를 일컫는 말로 우리말로는 '활동적 장년'이라고 한다.
+- 전통적인 고령자인 '실버 세대'와는 달리 가족 중심주의에서 벗어나 자신에게 투자를 아끼지 않으며 자기계발과 여가활동, 관계 맺기에 적극적이다.
+- 이들은 외국어, 컴퓨터 교육, 미용, 운동 등 다양한 활동을 즐기며 여행, 공연관람 등 침체된 문화 시장에서 신소비 계층으로 떠오르고 있다.
 
 
+
+
+
+### 프로젝트 필요성(배경)
+Walkerhill은 서울에 3개의 호텔과 공항에 2개의 호텔을 가지고 있습니다.
+많은 선택지는 고객으로 하여금 선택의 폭을 늘려준다는 장점이 있지만,
+호텔이 서로 뚜렷하게 구분되지 않는다면 어떤 호텔을 선택하는 것이 좋을지 알기 어렵다는 단점 또한 존재합니다.
+저희는 이러한 문제점을 해결하기 위해서 고객들의 동향을 분석하여 호텔을 예약하고자 하는 고객들에게 어떤 호텔을 선택하는 것이 좋을지 추천해주는 웹사이트를 개발하고자 하였습니다. 또한, 운영적인 측면에서 어떤 고객들이 서비스를 계속 이용하지 않고 이탈할 가능성이 높은지 파악할 수 있도록 하여 장기적인 서비스 운영에 도움을 주고자 하였습니다.
+
+### 프로젝트 목표
+원활한 웹사이트 운영을 위해, Backend Service로 Python과 Django를 이용하였습니다.
+더불어 Frontend에서는 사용자에게 보이는 웹디자인적인 측면에서 유리한 TypeScript와 Vue.js + Vuetify3를 이용하였습니다.
+마지막으로 분석에서는, Logistic Regression을 이용하여 고객의 동향을 분석히였고 AARRR 분석 방법을 이용하여 관리자가 고객의 이탈율을 계산할 수 있도록 하였습니다.
