@@ -42,10 +42,14 @@
 ## 3-2. 아키텍쳐 다이어그램
 ![image](https://github.com/user-attachments/assets/a269d5d1-49d1-4f78-98b2-cb09884ce2d0)
 
+---
+
+# 4. 가설 검증
+## 가설
+### 가설1 : 한국 시니어들이 연간 증가할 것이다.
+![image](https://github.com/user-attachments/assets/fc7fa10e-62b7-424c-968b-be84f6e939c5)
 
 
-
-#### 
 
 
 
