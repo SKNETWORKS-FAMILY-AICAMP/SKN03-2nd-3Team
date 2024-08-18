@@ -33,26 +33,33 @@
 # 🖥️ 3. 다이어그램 🖥️
 ## 3-1. 워크플로우 다이어그램
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/373d6cbb-a4eb-4fcc-be48-81d4ed0f8a70" alt="이미지 설명" width="500" />
+  <img src="https://github.com/user-attachments/assets/373d6cbb-a4eb-4fcc-be48-81d4ed0f8a70" alt="이미지 설명" width="400" />
 </p>
 
 
 
 
 ## 3-2. 아키텍쳐 다이어그램
-![image](https://github.com/user-attachments/assets/a269d5d1-49d1-4f78-98b2-cb09884ce2d0)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a269d5d1-49d1-4f78-98b2-cb09884ce2d0" alt="이미지 설명" width="800" />
+</p>
+
 
 ---
 
 # 4. 📈 가설 📈
 ### 가설1 : 한국 시니어들이 연간 증가할 것이다.
-![image](https://github.com/user-attachments/assets/fc7fa10e-62b7-424c-968b-be84f6e939c5)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fc7fa10e-62b7-424c-968b-be84f6e939c5" alt="이미지 설명" width="800" />
+</p>
 - 2024년부터 한국 전체 인원수 잠정치는 감소하는 반면, 50-60대 시니어의 인구수는 2017년부터 꾸준히 급상승하였고, 2024년부터 2027년 잠정치는 완만하게 증가한다. 
 하지만 2028년부터 시니어인구수 잠정치가 완만하게 감소한다.
 <br>
 
 ### 가설2 : 액티브 시니어들의 소비지출은 그외의 연령대보다 소비지출액이 높을 것이다. 
-![image](https://github.com/user-attachments/assets/6b92746c-1dbd-4fbb-b7a2-f62147ddee89)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6b92746c-1dbd-4fbb-b7a2-f62147ddee89" alt="이미지 설명" width="800" />
+</p>
 - 50대 가구는 소비지출액이 높게 나타났으나 60세 이상 가구는 소비지출액이 다른 연령층에 비해 낮다.
 - 50대와 60대를 함께 볼 수 없다고 판단!
 <br>
@@ -62,7 +69,9 @@
   (문화소비 : 오락, 문화, 음식, 숙박)
 </p>
 
-![image](https://github.com/user-attachments/assets/fc9cb3e5-2560-416c-9373-1546279e8281)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fc9cb3e5-2560-416c-9373-1546279e8281" alt="이미지 설명" width="800" />
+</p>
 - 전체 소비지출 대비 문화소비가 60대이상은 낮았고, 50대는 높았다.
 <br><br>
 
