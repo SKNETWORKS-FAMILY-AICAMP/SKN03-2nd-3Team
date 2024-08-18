@@ -32,7 +32,10 @@
 
 # 🖥️ 3. 다이어그램 🖥️
 ## 3-1. 워크플로우 다이어그램
-![image](https://github.com/user-attachments/assets/e1d83c1a-2f0f-41a5-8593-58e676495992)
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/e1d83c1a-2f0f-41a5-8593-58e676495992">
+</div>
+
 
 
 ## 3-2. 아키텍쳐 다이어그램
