@@ -32,9 +32,10 @@
 
 # 🖥️ 3. 다이어그램 🖥️
 ## 3-1. 워크플로우 다이어그램
-<div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/af0fbcf6-d1e9-420c-b1c2-c5efd57dee02">
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/af0fbcf6-d1e9-420c-b1c2-c5efd57dee02" alt="이미지 설명" width="500" />
+</p>
+
 
 
 
