@@ -49,7 +49,7 @@
 
 ---
 
-# 4. 📈 가설 및 분석결과 해석 📈
+# 📈 4. 가설 및 분석결과 해석 📈
 ### 검증목표 : 한국의 액티브 시니어들이 증가할 것이다.
 
 ### 전제
@@ -133,8 +133,15 @@
 ![image](https://github.com/user-attachments/assets/0914c794-c056-4449-b6c9-113e1eda5db7)
 
 ---
-# 6. 🛜 AWS 배포 🛜
+# 🛜 6. AWS 배포 🛜
 
+### 6-1. 도커에 이미지 생성
+![image](https://github.com/user-attachments/assets/2a4b3d11-ddb9-4bb5-9ec5-c57e52bf9c2e)
+### 6-2. NGINX 연결
+### 6-3. ECR : 레파지토리 생성
+### 6-4. CODEBUILD : project build
+### 6-5. IAM: 권한부여 (EC2 CONTAINERRESISTRYPOWERUSER)
+### 6-6. ECS : CLUSTER , TASK , SERVICE 생성
 
 
 
