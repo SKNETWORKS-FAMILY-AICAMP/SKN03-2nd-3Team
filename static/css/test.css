@@ -10,6 +10,19 @@ body, html {
     z-index: -1;
 }
 
+header {
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    margin: 20px 0;
+}
+
+header h1 {
+    font-size: 3em;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
 .satellites {
     display: none;
     margin-top: 20%;
