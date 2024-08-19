@@ -101,6 +101,9 @@
 ---
 
 # 😊 5. 수행결과 😊 (메인:망곰이 지도)
+## 메인페이지
+![image](https://github.com/user-attachments/assets/74be426d-e2f1-400e-ae8c-8b2653523580)
+
 
 
 ---
