@@ -11,18 +11,6 @@ def getMain(request):
 def getDesc(request):
     return render(request, "user/desc.html")
 
-def getMap(request):
-    return render(request, "user/map.html")
-
-def getPark(request):
-    return render(request, "user/park.html")
-
-def getStudy(request):
-    return render(request, "user/study.html")
-
-def getCulture(request):
-    return render(request, "user/culture.html")
-
 def getAboutus(request):
     return render(request, "user/aboutus.html")
 
@@ -31,7 +19,7 @@ def getTest(request):
 
 
 # map
-def index(request):
+def getMap(request):
     page = request.GET.get('page', 1)
 
     try:

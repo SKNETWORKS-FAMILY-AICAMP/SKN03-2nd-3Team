@@ -32,7 +32,7 @@ header h1 {
     display: flex;
     width: 120vh;
     height: 80vh; /* Viewport height */
-    margin-left: 20%;
+    margin-left: 23%;
 }
 
 .map-container {
@@ -117,7 +117,7 @@ header h1 {
 
 .card-button .card-footer {
     font-size: 12px;
-    color: #888;
+    color: #000;
 }
 
 

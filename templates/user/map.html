@@ -58,7 +58,7 @@
         </div>
     </div>
     <script>
-        var iconUrl = ["{% static 'img/manggom0.png' %}","{% static 'img/manggom1.png' %}"];
+        var iconUrl = ["{% static 'images/manggom0.png' %}","{% static 'images/manggom0.png' %}"];
     </script>
     <script type="text/javascript">
         var map_url = "{% url 'user-Map' %}";
@@ -67,7 +67,6 @@
         const shops_list = {{shop_list|safe}};
     </script>
     {% load static %}
-    <script src="{% static 'js/navi-2.js' %}"></script>
     <script src="{% static 'js/map.js' %}"></script>
 </body>
 </html>
