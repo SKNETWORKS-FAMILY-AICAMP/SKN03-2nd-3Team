@@ -108,7 +108,7 @@
 ### 가설 4 : 50대 액티브 소비자들은 해가 지날수록 가계계지출 대비 문화지출 비중에 대해 영향력을 미칠 것이다. <br> (1. 2019포함, 2. 2019제외) 
 #### 1. 2019 포함
 <p align="center">
-  문화 지출 비중 = $\beta_0 + \beta_1 \times \text{시간} + \epsilon$
+  문화 지출 비중 = $\beta_0 + \beta_1 \times \text{해} + \epsilon$
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8da33464-f485-457d-a5ae-893277d94806" alt="이미지 설명" width="500" />
