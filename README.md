@@ -33,54 +33,7 @@
 # 🖥️ 3. 다이어그램 🖥️
 ## 3-1. 워크플로우 다이어그램
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/373d6cbb-a4eb-4fcc-be48-81d4ed0f8a70" alt="이미지 설명" width="400" />
-</p>
-
-
-
-
-## 3-2. 아키텍쳐 다이어그램
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a269d5d1-49d1-4f78-98b2-cb09884ce2d0" alt="이미지 설명" width="800" />
-</p>
-
-
----
-
-# 4. 📈 가설 및 분석결과 해석 📈
-### 가설1 : 한국 시니어들이 연간 증가할 것이다.
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/fc7fa10e-62b7-424c-968b-be84f6e939c5" alt="이미지 설명" width="600" />
-</p>
-- 2024년부터 한국 전체 인원수 잠정치는 감소하는 반면, 50-60대 시니어의 인구수는 2017년부터 꾸준히 급상승하였고, 2024년부터 2027년 잠정치는 완만하게 증가한다. <br>
-(하지만 2028년부터 시니어인구수 잠정치가 완만하게 감소한다.)
-<br>
-
-### 가설2 : 액티브 시니어들의 연간 소비지출은 그외의 연령대보다 소비지출액이 높을 것이다. 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6b92746c-1dbd-4fbb-b7a2-f62147ddee89" alt="이미지 설명" width="600" />
-</p>
-- 50대 가구는 소비지출액이 높게 나타났으나 60세 이상 가구는 소비지출액이 다른 연령층에 비해 낮다. <br>
-- 50대와 60대 이상을 함께 볼 수 없다고 판단!
-<br>
-
-### 가설3 : 액티브 시니어들의 연간 소비지출 대비 문화소비(%)가 그 외의 연령대에 비해 높을 것이다. <br> 
-<p align="center">
-  (문화소비 : 오락, 문화, 음식, 숙박)
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/fc9cb3e5-2560-416c-9373-1546279e8281" alt="이미지 설명" width="600" />
-</p>
-- 전체 소비지출 대비 문화소비가 60대 이상은 낮았고, 50대는 높았다.
-<br><br>
-
-#### 가설1 ~ 가설3 결론 : 한국의 시니어층은 50대와 60대이상을 기준으로 극명하게 갈리며,<br>그 중 50대는 소비지출액이 높고 활동적 소비를 하여 액티브시니어로 볼 수 있다. <br> 하지만 60대이상의 인구는 소비 지출액이 적고 그 중  활동적 소비 비중 또한 낮다. <br> 따라서 한국의 60대 이상 시니어는 평균적으로 액티브 시니어라고 보기 어렵다.
-
-### 가설 4 : 50대 액티브 소비자들은 해가 지날수록 소비지출 대비 문화지출 비중에 대해 영향력을 미칠 것이다. (1. 2019포함, 2. 2019제외) 
-#### 1. 2019 포함
-<p align="center">
-  문화 지출 비중 = $\beta_0 + \beta_1 \times \text{시간} + \epsilon$
+  <img src="https://github.com/user-attac해} + \epsilon$
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8da33464-f485-457d-a5ae-893277d94806" alt="이미지 설명" width="500" />
