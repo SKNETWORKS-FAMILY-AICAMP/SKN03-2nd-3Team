@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Map Page</title>
+    <script type="text/javascript" src="https://oapi.map.naver.com/openapi/v3/maps.js?ncpClientId=md0r6k664v"></script>
     {% load static %}
     <link rel="stylesheet" href="{% static 'css/map.css' %}">
     <link rel="stylesheet" href="{% static 'css/loading.css' %}">
@@ -22,29 +23,52 @@
                 <h1>ASWM</h1>
             </a>
         </header>
-        <div class="container">
-            <div class="circle" id = "park-link">
-                <img src="{% static 'images/park_icon.png' %}" alt="공원">
-                <p>공원</p>
-            </div>
-            <div class="circle" id = "study-link">
-                <img src="{% static 'images/study_icon.png' %}" alt="교육">
-                <p>교육</p>
-            </div>
-            <div class="circle" id = "culture-link">
-                <img src="{% static 'images/culture_icon.png' %}" alt="문화 시설">
-                <p>문화 시설</p>
-            </div>
-        </div>
         <main>
-            <img src="{% static 'images/map.jpg' %}" alt="지도 이미지">
+            <div class="container-3">
+                <div class="map-container">
+                    <!-- 여기에 지도를 넣으세요 -->
+                    <div id="map"></div>
+                </div>
+                <div class="list-container">
+                    <h2>Location List</h2>
+                    <div class="button-list">
+                        {% for shop in shop_list %}
+                        <!-- <button onclick="moveToMarker({{ forloop.counter0 }})">{{shop.fclty_nm}}</button> -->
+        
+                        <button class="card-button" onclick="moveToMarker({{ forloop.counter0 }})">
+                            <div class="card">
+                                <!-- <div class="card-image">
+                                    <img src="image_url.jpg" alt="청계천">
+                                </div> -->
+                                <div class="card-content">
+                                    <h3>[{{shop.mlsfc_nm}}] {{shop.fclty_nm}}</h3>
+                                    <div class="card-footer">
+                                        <span>{{shop.fclty_road_nm_addr}}</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </button>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
         </main>
 
         <div class="footer">
             <p>망곰하는 코딩이들</p>
         </div>
     </div>
+    <script>
+        var iconUrl = ["{% static 'img/manggom0.png' %}","{% static 'img/manggom1.png' %}"];
+    </script>
+    <script type="text/javascript">
+        var map_url = "{% url 'map' %}";
+    </script>
+    <script>
+        const shops_list = {{shop_list|safe}};
+    </script>
     {% load static %}
     <script src="{% static 'js/navi-2.js' %}"></script>
+    <script src="{% static 'js/map.js' %}"></script>
 </body>
 </html>
