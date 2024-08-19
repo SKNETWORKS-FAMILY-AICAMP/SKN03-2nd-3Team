@@ -28,19 +28,11 @@ header h1 {
     margin: 0;
 }
 
-main {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin: 20px 0;
-    height: fit-content;
-}
-
 .container-3 {
     display: flex;
-
-    height: 100vh; /* Viewport height */
+    width: 120vh;
+    height: 80vh; /* Viewport height */
+    margin-left: 20%;
 }
 
 .map-container {

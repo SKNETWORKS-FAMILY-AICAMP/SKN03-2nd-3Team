@@ -58,4 +58,4 @@ def index(request):
         "shop_list" : list(page_obj.object_list)
 
     }
-    return render(request, 'map/index.html',context)
+    return render(request, 'user/map.html',context)
