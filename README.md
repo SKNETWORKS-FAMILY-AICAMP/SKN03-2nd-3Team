@@ -154,13 +154,21 @@
   <img src="https://github.com/user-attachments/assets/598636aa-23b7-47e1-b492-9f10e141c9cb" alt="이미지 설명" width="500" />
 </p>
 ### 6-3. ECR : 레파지토리 생성
-![image](https://github.com/user-attachments/assets/4e898d0d-8faa-4ce0-9306-66ddc81a132e)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4e898d0d-8faa-4ce0-9306-66ddc81a132e" alt="이미지 설명" width="500" />
+</p>
 ### 6-4. CODEBUILD : project build
-![image](https://github.com/user-attachments/assets/9c210ad4-41a3-4963-b735-226cd92624d7)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9c210ad4-41a3-4963-b735-226cd92624d7" alt="이미지 설명" width="500" />
+</p>
 ### 6-5. IAM: 권한부여 (EC2 CONTAINERRESISTRYPOWERUSER)
-![image](https://github.com/user-attachments/assets/74b9777b-fa88-4718-9304-e26475eb7894)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/74b9777b-fa88-4718-9304-e26475eb7894" alt="이미지 설명" width="500" />
+</p>
 ### 6-6. ECS : CLUSTER , TASK , SERVICE 생성
-![image](https://github.com/user-attachments/assets/594cb39b-6f6a-4e13-bf0a-e88eba2765b6)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/594cb39b-6f6a-4e13-bf0a-e88eba2765b6" alt="이미지 설명" width="500" />
+</p>
 
 
 
