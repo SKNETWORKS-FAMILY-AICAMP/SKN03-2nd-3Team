@@ -104,6 +104,15 @@
 ## 메인페이지
 ![image](https://github.com/user-attachments/assets/74be426d-e2f1-400e-ae8c-8b2653523580)
 
+## k-근황 
+### 액티브 시니어에 대한 정의 페이지
+![image](https://github.com/user-attachments/assets/900563a1-8b87-4646-9484-693b5a7cd303)
+### 가설 및 시각화 페이지
+![image](https://github.com/user-attachments/assets/18744147-edf3-43b4-af48-f3bbb59ad8b5)
+### 
+
+
+
 
 
 ---
