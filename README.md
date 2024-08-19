@@ -102,14 +102,21 @@
 
 # 😊 5. 수행결과 😊 (메인:망곰이 지도)
 ## 메인페이지
-![image](https://github.com/user-attachments/assets/74be426d-e2f1-400e-ae8c-8b2653523580)
+![image](https://github.com/user-attachments/assets/42967627-cb58-4b34-b229-b0efc3a3489c)
 
 ## k-근황 
 ### 액티브 시니어에 대한 정의 페이지
 ![image](https://github.com/user-attachments/assets/900563a1-8b87-4646-9484-693b5a7cd303)
+
 ### 가설 및 시각화 페이지
 ![image](https://github.com/user-attachments/assets/18744147-edf3-43b4-af48-f3bbb59ad8b5)
-### 
+
+### 망곰이 지도 페이지
+![image](https://github.com/user-attachments/assets/7eab3378-1948-4c9e-8161-b28b791700a7)
+
+![image](https://github.com/user-attachments/assets/0914c794-c056-4449-b6c9-113e1eda5db7)
+
+
 
 
 
