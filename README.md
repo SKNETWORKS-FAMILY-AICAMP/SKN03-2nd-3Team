@@ -146,9 +146,13 @@
 # 🛜 6. AWS 배포 🛜
 
 ### 6-1. 도커에 이미지 생성
-![image](https://github.com/user-attachments/assets/2a4b3d11-ddb9-4bb5-9ec5-c57e52bf9c2e)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2a4b3d11-ddb9-4bb5-9ec5-c57e52bf9c2e" alt="이미지 설명" width="500" />
+</p>
 ### 6-2. NGINX 연결
-![image](https://github.com/user-attachments/assets/598636aa-23b7-47e1-b492-9f10e141c9cb)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/598636aa-23b7-47e1-b492-9f10e141c9cb" alt="이미지 설명" width="500" />
+</p>
 ### 6-3. ECR : 레파지토리 생성
 ![image](https://github.com/user-attachments/assets/4e898d0d-8faa-4ce0-9306-66ddc81a132e)
 ### 6-4. CODEBUILD : project build
