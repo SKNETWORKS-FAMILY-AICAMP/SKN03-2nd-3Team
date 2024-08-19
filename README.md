@@ -87,7 +87,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fc9cb3e5-2560-416c-9373-1546279e8281" alt="이미지 설명" width="600" />
+  <img src="https://github.com/user-attachments/assets/81c6fb3a-7098-4e67-8441-ac961fae29eb" alt="이미지 설명" width="600" />
 </p>
 - 전체 소비지출 대비 문화소비가 60대 이상은 낮았고, 50대는 높았다.
 <br><br>
