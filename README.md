@@ -6,6 +6,7 @@
 |김성은|김종식|이주원|최연규|허지원|
 |---|---|---|---|---|
 |<img src="https://github.com/user-attachments/assets/d28f0fe3-1804-4c2a-b72b-fdd950d749bc"  width="150" height="150"/> |<img src="https://github.com/user-attachments/assets/fb403361-d3b3-4023-9813-183ad7b6b2f7"  width="150" height="150"/> |<img src="https://github.com/user-attachments/assets/d507e286-9575-4b1f-be18-94688a149080"  width="150" height="150"/>  | <img src="https://github.com/user-attachments/assets/5b3f38cc-696e-4d09-8ca9-f93d412a7a17"  width="150" height="150"/> |<img src="https://github.com/user-attachments/assets/d8f438e8-eed8-4763-bdf8-a744b5071d49"  width="150" height="150"/>  |
+|풀스택|분석|풀스택|풀스택|분석|
 ---
 
 # 📌 2. 프로젝트 소개 📌
@@ -131,6 +132,9 @@
 
 ![image](https://github.com/user-attachments/assets/0914c794-c056-4449-b6c9-113e1eda5db7)
 
+---
+# 6. 🛜 AWS 배포 🛜
+
 
 
 
@@ -138,16 +142,17 @@
 
 
 ---
-# 😮‍💨 6. 아쉬웠던 점들 + 오류 😮‍💨
+# 😮‍💨 7. 아쉬웠던 점들 + 오류 😮‍💨
 
 ---
 
-# 🐾 7. 한 줄평 🐾
+# 🐾 8. 한 줄평 🐾
 - 성은:
 - 종식:
-- 주원:
+- 주원: 싫은데용
 - 연규:
 - 지원: 집에 가고 싶어용
+
 ---
 
 
