@@ -85,7 +85,9 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8da33464-f485-457d-a5ae-893277d94806" alt="이미지 설명" width="500" />
 </p>
-- 1. 결과 : 유의 확률이 40%..... H0: $\beta_1\$=0 을 기각시키지 못하므로 가설 4는 기각된다.
+- 1. 결과 : 유의 확률이 40%..... H0: 
+$\beta_1$=0 
+을 기각시키지 못하므로 가설 4는 기각된다.
 
 #### 2. 2019 제외
 <p align="center">
